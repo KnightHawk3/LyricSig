@@ -43,7 +43,6 @@ paragraphs = song_lyrics.split(par_separator)
 song_quote = random.choice(paragraphs)
 
 signature = """
-----------------------------------------
 Declan Kelly (Knight Hawk3)
 Head of IT at The Disorganisation
 declan@KnightHawk3.com
