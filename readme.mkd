@@ -6,7 +6,7 @@ This generates my email signiture.
 
 Have a folder in `~/.lyrics` with files like `The White Stripes - My Doorbell.txt` containing only the lyrics to the song. Pipe the output of this script into your email signiture.
 
-### Licence
+## Licence
     Knight Hawk3's Awesome Window Manger configuration.
     Copyright (C) 2013  Declan Kelly
 
